@@ -4,6 +4,7 @@ Stefan Wendhausen as speaker at conferences
 ## 2019 - 2022
 | where and when | title | link | video |
 |-------------|-------|------|-------|
+| JoomlaDay™ DACH, 20.09.2024, Hamburg | Kein Backup kein Mitleid | [Slides](https://jd24dach.stefan-wendhausen.de/) | tbd |
 | JoomlaDay™ DACH, 24.09.2022, Bad Hersfeld | Update auf Joomla 4 und dann kommt 5 | [Slides](https://j4update.stefan-wendhausen.de/) | tbd |
 | JoomlaDay™ DACH, 23.09.2022, Bad Hersfeld | Kein Backup kein Mitleid | [Slides](https://kbkm.stefan-wendhausen.de/) | tbd |
 | JoomlaDay™ Online, 26.09.2020, Online | YOOtheme Pro 2.0 | none | [YouTube](https://youtu.be/8MARQXC1INE?t=18094) |
