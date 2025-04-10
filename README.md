@@ -4,7 +4,7 @@ Stefan Wendhausen as speaker at conferences
 ## 2019 - 2025
 | where and when | title | link | video |
 |-------------|-------|------|-------|
-| publishingh club, 10.04.2025, online | Joomla! 5 | [Slides](https://www.stefan-wendhausen.de/images/slides/2025-04-10_publishing-akzente.pdf) | tbd |
+| publishing.club, 10.04.2025, online | Joomla! 5 | [Slides](https://www.stefan-wendhausen.de/images/slides/2025-04-10_publishing-akzente.pdf) | tbd |
 | JoomlaDay™ DACH, 20.09.2024, Hamburg | Kein Backup kein Mitleid | [Slides](https://jd24dach.stefan-wendhausen.de/) | [YouTube](https://www.youtube-nocookie.com/embed/VXfFiItRklU?si=bm2qD0nP3_Ztk1eY) |
 | JoomlaDay™ DACH, 24.09.2022, Bad Hersfeld | Update auf Joomla 4 und dann kommt 5 | [Slides](https://j4update.stefan-wendhausen.de/) | [YouTube](https://www.youtube-nocookie.com/embed/7EIi7qmPX-4?si=PxsNnE1N0ZbrdV56) |
 | JoomlaDay™ DACH, 23.09.2022, Bad Hersfeld | Kein Backup kein Mitleid | [Slides](https://kbkm.stefan-wendhausen.de/) | [YouTube](https://www.youtube-nocookie.com/embed/eNgyS-Ag2c4?si=wll6AhxRvD4OTu5-) |
